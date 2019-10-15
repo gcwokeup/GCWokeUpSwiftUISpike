@@ -106,6 +106,11 @@
 			attributes = {
 				LastUpgradeCheck = 1110;
 				ORGANIZATIONNAME = GCWokeUp;
+				TargetAttributes = {
+					C0DC5BAF308CA68BC146DBA2 = {
+						DevelopmentTeam = ZLNSB4X3D8;
+					};
+				};
 			};
 			buildConfigurationList = C0DC5E55FAE496908F6D91CF /* Build configuration list for PBXProject "GCWokeUpSwiftUISpike" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -200,6 +205,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = ZLNSB4X3D8;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -269,6 +275,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = ZLNSB4X3D8;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
